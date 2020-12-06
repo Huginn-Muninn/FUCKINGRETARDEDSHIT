@@ -1,0 +1,138 @@
+---
+
+---
+@import "main";
+
+/*
+body {
+    background: maroon;
+  }
+  
+  .current {
+    color: magenta;
+  }
+  
+  input {
+    display: none;
+  }
+  label,
+  .menu {
+    border: 2px solid black;
+    border-radius: 10px;
+  }
+  label {
+    color: fuchsia;
+    cursor: crosshair;
+    display: inline-block;
+    font-size: 16px;
+    padding: 5px 8px;
+    align-content: flex-start;
+  }
+  label:hover {
+    color: orange;
+  }
+  input:checked + label {
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15);
+    color: royalblue;
+  }
+  nav {
+    max-height: 0;
+    overflow: hidden;
+  }
+  input:checked ~ nav {
+    max-height: 500px;
+  }
+  .menu {
+    list-style: none;
+    margin: 8px 0 0 0;
+    padding: 0;
+    width: 150px;
+  }
+  .link {
+    border-bottom: 1px solid yellow;
+  }
+  .link:last-child {
+    border-bottom: 0;
+  }
+  a {
+    color: honeydew;
+    display: block;
+    padding: 9px 18px;
+    text-decoration: none;
+  }
+  a:hover {
+    color: tan;
+  }
+  .mynd {
+    display: flex;
+    justify-content: center;
+  }
+  h1 {
+    display: flex;
+    justify-content: center;
+  }
+  p {
+    justify-content: center;
+  }
+  
+  
+  
+  
+  @media screen and (min-width: 500px){
+  body {
+    background: navajowhite;
+    text-align: center;
+  }
+  .menu {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 15px;
+  }
+  .link {
+    justify-self: center;
+  }
+  
+  input {
+    display: none;
+  }
+  label,
+  .menu {
+    border: none;
+  }
+  
+  ul li{
+    display: inline;
+  }
+  
+  label {
+    display: none;
+  }
+  nav {
+    max-height: 450px;
+    overflow: hidden;
+  }
+  .menu {
+    display: inline;
+    list-style: none;
+    margin: 8px 0 0 0;
+    padding: 0;
+  }
+  .link {
+    border-bottom: none;
+  }
+  .link:last-child {
+    border-bottom: 0;
+  }
+  a {
+    color: gold;
+    display: inline;
+    padding: 9px 18px;
+    text-decoration: none;
+  }
+  a:hover {
+    color: mediumaquamarine;
+  }
+  }
+  */

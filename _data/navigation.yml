@@ -1,0 +1,8 @@
+- name: <span class="icon-hipster2"></span>Home
+  link: /
+- name: <span class="icon-hipster2"></span>About
+  link: /about.html
+- name: <span class="icon-hipster2"></span>Blog
+  link: /blog.html
+- name: <span class="icon-hipster2"></span>Staff
+  link: /staff.html

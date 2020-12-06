@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?m4u523');
+  src:  url('fonts/icomoon.eot?m4u523#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?m4u523') format('truetype'),
+    url('fonts/icomoon.woff?m4u523') format('woff'),
+    url('fonts/icomoon.svg?m4u523#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-hipster2:before {
+  content: "\e9fa";
+}
+.icon-youtube:before {
+  content: "\ea9d";
+}
+.icon-twitch:before {
+  content: "\ea9f";
+}
+.icon-soundcloud2:before {
+  content: "\eac4";
+}
+.icon-reddit:before {
+  content: "\eac6";
+}
